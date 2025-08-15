@@ -20,7 +20,7 @@ The system takes a text passage as context and returns the most relevant answer 
 ---
 
 ## 🛠 Tech Stack  
-- **Python 3**  
+- **Python**  
 - **Hugging Face Transformers**   
 - **Datasets (SQuAD)** 
 - **Evaluate**  
